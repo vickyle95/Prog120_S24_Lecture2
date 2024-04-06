@@ -11,7 +11,7 @@ namespace Prog120_S24_Lecture2
 
             // Vicky Le
             // 04 04 2024
-            // Programming 1
+            // Programming 120
 
             // Asked for the users name
             Console.Write("Enter your name: ");
